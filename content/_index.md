@@ -2,6 +2,14 @@
 title: CPD-Vault // Home
 ---
 
+<style type="text/css">
+legend {
+  font-weight: bold;
+  color: white;
+  font-family: sans-serif;
+}
+</style>
+
 <p>A database of CPD for confused speechie grads (and others).</p>
 <p>Details are accurate to the time of collation (October 2022).</p>
 
@@ -11,7 +19,7 @@ title: CPD-Vault // Home
 <h2>A</h2>
 
 <fieldset> <!-- Aphasia -->
-<legend style="font-weight:bold;color:white">#aphasia</legend>
+<legend>[#aphasia]</legend>
 <ul type="disc">
 <li>Aphasia</li>
 </ul>
