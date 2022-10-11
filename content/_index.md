@@ -1,5 +1,5 @@
 ---
-title: Home
+title: CPD-Vault // Home
 ---
 
 <p>A database of CPD for confused speechie grads (and others).</p>
