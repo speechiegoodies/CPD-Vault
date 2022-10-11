@@ -8,8 +8,6 @@ title: CPD-Vault
 <h1>Masterlist of Tags</h1>
 <p>Alternatively, click [here](cpd.md) to see the disorganised chaos of CPD as a list.</p>
 
-[here](cpd.md)
-
 <!-- "A" -->
 <h2>A</h2>
 
