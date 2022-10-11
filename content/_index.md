@@ -6,7 +6,7 @@ title: Home
 <p>Details are accurate to the time of collation (October 2022).</p>
 
 <h1>Masterlist of Tags</h1>
-<p>Jump to:
+<p name="top">Jump to:
 <a href="#a">A</a> |
 <a href="#b">B</a> |
 <a href="#c">C</a> |
@@ -38,6 +38,8 @@ title: Home
 <li>Pervasive Developmental Disorder (PDD)</li>
 </ul>
 </fieldset>
+
+<p><a href="#top">&#8593; Return to top</a></p>
 
 
 
