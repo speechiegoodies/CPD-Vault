@@ -15,7 +15,6 @@ title: CPD-Vault // Home
 <ul type="disc">
 <li>Aphasia</li>
 </ul>
-</fieldset>
 
 <!-- Aphasia -->
 <p style="tag">#autism</p>
@@ -74,7 +73,7 @@ title: CPD-Vault // Home
 <h2>L</h2>
 
 <!-- Language -->
-<p style="font-weight:bold;color:white">#language</p>
+<p style="tag">#language</p>
 <ul type="disc">
 <li>Language</li>
 </ul>
@@ -85,7 +84,7 @@ title: CPD-Vault // Home
 <h2>P</h2>
 
 <!-- Parkinsonian -->
-<p style="font-weight:bold;color:white">#parkinsonian</p>
+<p style="tag">#parkinsonian</p>
 <ul type="disc">
 <li>Parkinsonian syndromes</li>
 </ul>
@@ -96,7 +95,7 @@ title: CPD-Vault // Home
 <h2>V</h2>
 
 <!-- Voice -->
-<p style="font-weight:bold;color:white">#voice</p>
+<p style="tag">#voice</p>
 <ul type="disc">
 <li>Voice</li>
 </ul>
