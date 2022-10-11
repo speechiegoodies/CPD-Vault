@@ -6,20 +6,10 @@ title: Home
 <p>Details are accurate to the time of collation (October 2022).</p>
 
 <h1 id="top">Masterlist of Tags</h1>
-<p>Jump to:
-<a href="#a">A</a> |
-<a href="#b">B</a> |
-<a href="#c">C</a> |
-<a href="#d">D</a> |
-<a href="#e">E</a> |
-<a href="#f">F</a> |
-</p>
-
-
 
 <!-- "A" -->
 <hr> 
-<h2 id="a">A</h2>
+<h2>A</h2>
 
 <fieldset> <!-- Aphasia -->
 <legend style="font-weight:bold">#aphasia</legend>
@@ -39,13 +29,11 @@ title: Home
 </ul>
 </fieldset>
 
-<p><a href="#top">&#8593; Return to top</a></p>
-
 
 
 <!-- "B" -->
 <hr>
-<h2 id="b">B</h2>
+<h2>B</h2>
 
 <fieldset> <!-- ... -->
 <legend style="font-weight:bold">#...</legend>
@@ -54,13 +42,11 @@ title: Home
 </ul>
 </fieldset>
 
-<p><a href="#top">&#8593; Return to top</a></p>
-
 
 
 <!-- "C" -->
 <hr>
-<h2 id="c">C</h2>
+<h2>C</h2>
 
 <fieldset> <!-- ... -->
 <legend style="font-weight:bold">#...</legend>
@@ -73,7 +59,7 @@ title: Home
 
 <!-- "D" -->
 <hr>
-<h2 id="d">D</h2>
+<h2>D</h2>
 
 <fieldset> <!-- ... -->
 <legend style="font-weight:bold">#...</legend>
@@ -86,7 +72,7 @@ title: Home
 
 <!-- "E" -->
 <hr>
-<h2 id="e">E</h2>
+<h2>E</h2>
 
 <fieldset> <!-- ... -->
 <legend style="font-weight:bold">#...</legend>
@@ -98,7 +84,7 @@ title: Home
 
 
 <hr> <!-- "F" -->
-<h2 id="f">F</h2>
+<h2>F</h2>
 
 <fieldset> <!-- First Nations -->
 <legend style="font-weight:bold">#firstnations</legend>
@@ -114,7 +100,7 @@ title: Home
 
 
 <hr> <!-- "P" -->
-<h2 id="p">P</h2>
+<h2>P</h2>
 
 <fieldset> <!-- Parkinsonian -->
 <legend style="font-weight:bold">#parkinsonian</legend>
@@ -126,7 +112,7 @@ title: Home
 
 
 <hr> <!-- "V" -->
-<h2 id="v">V</h2>
+<h2>V</h2>
 
 <fieldset> <!-- Voice -->
 <legend style="font-weight:bold">#voice</legend>
@@ -134,3 +120,5 @@ title: Home
 <li>Voice</li>
 </ul>
 </fieldset>
+
+<p><a href="#top">&#8593; Return to top</a></p>
