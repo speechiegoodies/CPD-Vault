@@ -3,6 +3,7 @@ title: Home
 ---
 
 <p>A database of CPD for confused speechie grads (and others).</p>
+<p>Details are accurate to the time of collation (October 2022).</p>
 
 <h1>Masterlist of Tags</h1>
 <p>Jump to:
