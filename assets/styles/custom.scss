@@ -1,4 +1,7 @@
 // Add your own CSS here!
+body {
+  background-color: black;
+}
 
 :root {
   --light: #faf8f8;
@@ -23,8 +26,4 @@
   --gray: #d4d4d4 !important;
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
-}
-
-body {
-  background-color: blue;
 }
