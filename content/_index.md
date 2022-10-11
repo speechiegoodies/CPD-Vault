@@ -18,7 +18,7 @@ title: CPD-Vault // Home
 </fieldset>
 
 <fieldset> <!-- Autism -->
-<legend style="font-weight:bold;color:white">#autism</legend>
+<legend>#autism</legend>
 <ul type="disc">
 <li>Autism</li>
 <li>Autistic spectrum conditions (ASC)</li>
