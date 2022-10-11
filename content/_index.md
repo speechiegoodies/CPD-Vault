@@ -10,15 +10,15 @@ title: CPD-Vault // Home
 <!-- "A" -->
 <h2>A</h2>
 
-<fieldset> <!-- Aphasia -->
-<legend>#aphasia</legend>
+<!-- Aphasia -->
+<p style="tag">#aphasia</p>
 <ul type="disc">
 <li>Aphasia</li>
 </ul>
 </fieldset>
 
-<fieldset> <!-- Autism -->
-<legend>#autism</legend>
+<!-- Aphasia -->
+<p style="tag">#autism</p>
 <ul type="disc">
 <li>Autism</li>
 <li>Autistic spectrum conditions (ASC)</li>
@@ -26,7 +26,6 @@ title: CPD-Vault // Home
 <li>Asperger's</li>
 <li>Pervasive Developmental Disorder (PDD)</li>
 </ul>
-</fieldset>
 
 
 
@@ -34,12 +33,11 @@ title: CPD-Vault // Home
 <hr>
 <h2>B</h2>
 
-<fieldset> <!-- ... -->
-<legend style="font-weight:bold;color:white">#...</legend>
+<!-- ... -->
+<p style="tag">#...</p>
 <ul type="disc">
 <li>...</li>
 </ul>
-</fieldset>
 
 
 
@@ -47,47 +45,20 @@ title: CPD-Vault // Home
 <hr>
 <h2>C</h2>
 
-<fieldset> <!-- ... -->
-<legend style="font-weight:bold;color:white">#cogcom</legend>
+<!-- ... -->
+<p style="tag">#cogcom</p>
 <ul type="disc">
 <li>Cognitive communication</li>
 <li>Cognitive communication disorder (CCD)</li>
 </ul>
-</fieldset>
-
-
-
-<!-- "D" -->
-<hr>
-<h2>D</h2>
-
-<fieldset> <!-- ... -->
-<legend style="font-weight:bold;color:white">#...</legend>
-<ul type="disc">
-<li>...</li>
-</ul>
-</fieldset>
-
-
-
-<!-- "E" -->
-<hr>
-<h2>E</h2>
-
-<fieldset> <!-- ... -->
-<legend style="font-weight:bold;color:white">#...</legend>
-<ul type="disc">
-<li>...</li>
-</ul>
-</fieldset>
 
 
 
 <hr> <!-- "F" -->
 <h2>F</h2>
 
-<fieldset> <!-- First Nations -->
-<legend style="font-weight:bold;color:white">#firstnations</legend>
+<!-- First Nations -->
+<p style="tag">#firstnations</p>
 <ul type="disc">
 <li>Aboriginal</li>
 <ul type="circle">
@@ -95,7 +66,6 @@ title: CPD-Vault // Home
 </ul>
 <li>Torres Strait Islander</li>
 </ul>
-</fieldset>
 
 
 
@@ -103,35 +73,32 @@ title: CPD-Vault // Home
 <hr>
 <h2>L</h2>
 
-<fieldset> <!-- Language -->
-<legend style="font-weight:bold;color:white">#language</legend>
+<!-- Language -->
+<p style="font-weight:bold;color:white">#language</p>
 <ul type="disc">
 <li>Language</li>
 </ul>
-</fieldset>
 
 
 
 <hr> <!-- "P" -->
 <h2>P</h2>
 
-<fieldset> <!-- Parkinsonian -->
-<legend style="font-weight:bold;color:white">#parkinsonian</legend>
+<!-- Parkinsonian -->
+<p style="font-weight:bold;color:white">#parkinsonian</p>
 <ul type="disc">
 <li>Parkinsonian syndromes</li>
 </ul>
-</fieldset>
 
 
 
 <hr> <!-- "V" -->
 <h2>V</h2>
 
-<fieldset> <!-- Voice -->
-<legend style="font-weight:bold;color:white">#voice</legend>
+<!-- Voice -->
+<p style="font-weight:bold;color:white">#voice</p>
 <ul type="disc">
 <li>Voice</li>
 </ul>
-</fieldset>
 
 <p><a href="#top">&#8593; Return to top</a></p>

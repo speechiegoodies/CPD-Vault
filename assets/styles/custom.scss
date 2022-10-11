@@ -3,14 +3,10 @@ body {
   font-family: "Arial", sans-serif;
 }
 
-fieldset {
-  border: 1px;
-  color: inherit;
-}
-
-legend {
+.tag {
+  letter-spacing: 1px;
   font-weight: bold;
-  letter-spacing: 2px;
+  font-size: 14px;
 }
 
 :root {
