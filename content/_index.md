@@ -48,9 +48,10 @@ title: CPD-Vault // Home
 <h2>C</h2>
 
 <fieldset> <!-- ... -->
-<legend style="font-weight:bold;color:white">#...</legend>
+<legend style="font-weight:bold;color:white">#cogcom</legend>
 <ul type="disc">
-<li>...</li>
+<li>Cognitive communication</li>
+<li>Cognitive communication disorder (CCD)</li>
 </ul>
 </fieldset>
 
@@ -93,6 +94,19 @@ title: CPD-Vault // Home
 <li><b>#noongar:</b> Noongar resources</li>
 </ul>
 <li>Torres Strait Islander</li>
+</ul>
+</fieldset>
+
+
+
+<!-- "L" -->
+<hr>
+<h2>L</h2>
+
+<fieldset> <!-- Language -->
+<legend style="font-weight:bold;color:white">#language</legend>
+<ul type="disc">
+<li>Language</li>
 </ul>
 </fieldset>
 
