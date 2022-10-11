@@ -1,6 +1,16 @@
 // Add your own CSS here!
+body {
+  background-color: #EDDBD9;
+  font-family: "Arial", sans-serif;
+}
+
+fieldset {
+  border: 1px white;
+}
+
 legend {
-  font-family: "Calibri",sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
 }
 
 :root {
