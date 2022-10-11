@@ -1,5 +1,5 @@
 ---
-title: "Attention, memory and aphasia: Implications​"
+title: "Attention, memory and aphasia: Implications"
 tags:
 - aphasia
 - cogcom
