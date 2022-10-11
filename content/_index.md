@@ -11,13 +11,13 @@ title: CPD-Vault // Home
 <h2>A</h2>
 
 <!-- Aphasia -->
-<p style="tag">#aphasia</p>
+<p class="tag">#aphasia</p>
 <ul type="disc">
 <li>Aphasia</li>
 </ul>
 
 <!-- Aphasia -->
-<p style="tag">#autism</p>
+<p class="tag">#autism</p>
 <ul type="disc">
 <li>Autism</li>
 <li>Autistic spectrum conditions (ASC)</li>
@@ -33,7 +33,7 @@ title: CPD-Vault // Home
 <h2>B</h2>
 
 <!-- ... -->
-<p style="tag">#...</p>
+<p class="tag">#...</p>
 <ul type="disc">
 <li>...</li>
 </ul>
@@ -45,7 +45,7 @@ title: CPD-Vault // Home
 <h2>C</h2>
 
 <!-- ... -->
-<p style="tag">#cogcom</p>
+<p class="tag">#cogcom</p>
 <ul type="disc">
 <li>Cognitive communication</li>
 <li>Cognitive communication disorder (CCD)</li>
@@ -57,7 +57,7 @@ title: CPD-Vault // Home
 <h2>F</h2>
 
 <!-- First Nations -->
-<p style="tag">#firstnations</p>
+<p class="tag">#firstnations</p>
 <ul type="disc">
 <li>Aboriginal</li>
 <ul type="circle">
@@ -73,7 +73,7 @@ title: CPD-Vault // Home
 <h2>L</h2>
 
 <!-- Language -->
-<p style="tag">#language</p>
+<p class="tag">#language</p>
 <ul type="disc">
 <li>Language</li>
 </ul>
@@ -84,7 +84,7 @@ title: CPD-Vault // Home
 <h2>P</h2>
 
 <!-- Parkinsonian -->
-<p style="tag">#parkinsonian</p>
+<p class="tag">#parkinsonian</p>
 <ul type="disc">
 <li>Parkinsonian syndromes</li>
 </ul>
@@ -95,7 +95,7 @@ title: CPD-Vault // Home
 <h2>V</h2>
 
 <!-- Voice -->
-<p style="tag">#voice</p>
+<p class="tag">#voice</p>
 <ul type="disc">
 <li>Voice</li>
 </ul>
