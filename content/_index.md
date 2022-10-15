@@ -2,11 +2,11 @@
 title: CPD-Vault
 ---
 
-A database of CPD for confused speechie grads (and others).
+A database of CPD for confused speechie grads (and others).<br>
 Details are accurate to the time of collation (October 2022).
 
 # Masterlist of Tags
-Alternatively, click [here](aphasia.md) to see the disorganised chaos of CPD as a list.
+Alternatively, click [here](aphasia.md) to see CPD as a list.
 
 <!-- "A" -->
 <h2>A</h2>

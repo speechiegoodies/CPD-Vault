@@ -1,6 +1,6 @@
 ---
-title: "Aphasia"
+title: "Language"
 ---
 
-#aphasia
+#language
 - [Attention, memory and aphasia: Implications](posts/attention, memory and learning.md)

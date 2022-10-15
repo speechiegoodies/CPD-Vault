@@ -1,8 +1,11 @@
 ---
 title: "Attention, memory and aphasia: Implications"
+tags:
+- aphasia
+- language
 ---
 
-<p><b>Tags:</b> #aphasia #cogcom #language</p>
+<p><b>Tags:</b> #aphasia #language</p>
 <p><b>Code:</b> O</p>
 <p><b>Type:</b> Live online event (Past event)</p>
 <p><b>Website:</b>

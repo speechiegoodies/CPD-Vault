@@ -1,6 +1,5 @@
 ---
-title: Cogcom
+title: "Cognitive communication disorders"
 ---
 
 #cogcom
-- [Attention, memory and aphasia: Implications](cpd/attention, memory and learning.md)
