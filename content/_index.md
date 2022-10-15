@@ -15,6 +15,7 @@ Details are accurate to the time of collation (October 2022).
 - [Cognitive communication](!tagpages/cogcom.md) #cogcom
 
 ## D
+- [Dyslexia](!tagpages/dyslexia.md) #dyslexia
 - [Dysphagia](!tagpages/dysphagia.md) #dysphagia
 
 ## L
