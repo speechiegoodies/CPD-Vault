@@ -7,7 +7,7 @@ tags:
 - congenital
 ---
 
-<p><b>Tags:</b> #speech #voice #progneuro #congenital</p>
+<p><b>Tags:</b> #speech #voice #progneuro #dysarthria #congenital</p>
 <p><b>Code:</b> O</p>
 <p><b>Type:</b>
 <ul type="disc">

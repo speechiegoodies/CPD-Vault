@@ -1,6 +1,6 @@
 ---
-title: "Palliative care"
+title: "Aged care + Palliative care"
 ---
 
-#pallcare
+#agedcare #pallcare
 - [Dysphagia management and risk feeding in aged or palliative care](cpd/dysphagia/dysphagia-riskfeed-pallcare.md)

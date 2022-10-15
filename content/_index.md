@@ -7,23 +7,24 @@ Details are accurate to the time of collation (October 2022).
 
 # Masterlist of Tags
 ## A
-- [Aged care](!tagpages/agedcare.md) #agedcare<br>
+- [Aged care](!tagpages/aged-pallcare.md) #agedcare<br>
 - [Aphasia](!tagpages/aphasia.md) #aphasia<br>
-- [Autism](!tagpages/autism.md) #autism
+- [Autism](!tagpages/neurodivergence.md) #autism
 
 ## C
+- [Childhood apraxia of speech](!tagpanes/apraxia.md) #cas
 - [Cognitive communication](!tagpages/cogcom.md) #cogcom
 
 ## D
-- [Dyslexia](!tagpages/dyslexia.md) #dyslexia
+- [Dyslexia](!tagpages/neurodivergence.md) #dyslexia
 - [Dysphagia](!tagpages/dysphagia.md) #dysphagia
 
 ## L
-- [Language](!tagpages/language.md) #language<br>
-- [Literacy](!tagpages/literacy.md) #literacy
+- [Language](!tagpages/lang-lit.md) #language<br>
+- [Literacy](!tagpages/lang-lit.md) #literacy
 
 ## P
-- [Palliative care](!tagpages/pallcare.md) #pallcare<br>
+- [Palliative care](!tagpages/aged-pallcare.md) #pallcare<br>
 - [Progressive neurological conditions](!tagpages/progneuro.md) #progneuro
 
 ## S
