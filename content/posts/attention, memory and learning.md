@@ -1,9 +1,5 @@
 ---
 title: "Attention, memory and aphasia: Implications"
-tags:
-- aphasia
-- cogcom
-- language
 ---
 
 <p><b>Tags:</b> #aphasia #cogcom #language</p>
@@ -14,3 +10,5 @@ tags:
 
 <p><b>Description:</b>
 Evidence from aphasia literature supports the proposition that cognitive processes, such as attention and memory, influence language production and comprehension. To elucidate these relationships, this event will discuss models of attention and memory, review assessment practices and present treatment approaches.</p>
+
+<p><a href="https://speechiegoodies.github.io/CPD-Vault">&lt; Home</a></p>

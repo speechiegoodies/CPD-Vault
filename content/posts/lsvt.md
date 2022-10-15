@@ -1,8 +1,5 @@
 ---
 title: "LSVT"
-tags:
-- voice
-- parkinsonian
 ---
 
 #parkinsonian #voice <br>

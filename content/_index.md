@@ -6,7 +6,7 @@ A database of CPD for confused speechie grads (and others).
 Details are accurate to the time of collation (October 2022).
 
 # Masterlist of Tags
-Alternatively, click [here](cpd.md) to see the disorganised chaos of CPD as a list.
+Alternatively, click [here](aphasia.md) to see the disorganised chaos of CPD as a list.
 
 <!-- "A" -->
 <h2>A</h2>
