@@ -6,21 +6,27 @@ A database of CPD for confused speechie grads (and others).<br>
 Details are accurate to the time of collation (October 2022).
 
 # Masterlist of Tags
-<!-- "A" -->
-<h2>A</h2>
+## A
+- [Aged care](!tagpanes/agedcare.md) #agedcare<br>
+- [Aphasia](!tagpanes/aphasia.md) #aphasia<br>
+- [Autism](!tagpanes/autism.md) #autism
 
-<!-- Aphasia -->
-<p class="tag">#aphasia</p>
-<ul type="disc">
-<li>Aphasia</li>
-</ul>
+## C
+- [Cognitive communication](!tagpanes/cogcom.md) #cogcom
 
-<!-- Aphasia -->
-<p class="tag">#autism</p>
-<ul type="disc">
-<li>Autism</li>
-<li>Autistic spectrum conditions (ASC)</li>
-<li>Autistic spectrum disorders (ASC)</li>
-<li>Asperger's</li>
-<li>Pervasive Developmental Disorder (PDD)</li>
-</ul>
+## D
+- [Dysphagia](!tagpanes/dysphagia.md) #dysphagia
+
+## L
+- [Language](!tagpanes/language.md) #language<br>
+- [Literacy](!tagpanes/literacy.md) #literacy
+
+## P
+- [Palliative care](!tagpanes/pallcare.md) #pallcare<br>
+- [Progressive neurological conditions](!tagpanes/progneuro.md) #progneuro
+
+## S
+- [Speech](!tagpanes/speech.md) #speech
+
+## V
+- [Voice](!tagpanes/voice.md) #voice
