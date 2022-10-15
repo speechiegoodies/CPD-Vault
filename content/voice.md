@@ -3,4 +3,4 @@ title: "Voice"
 ---
 
 #voice
-- [LSVT](posts/lsvt.md)
+- [LSVT](cpd/speech/lsvt.md)

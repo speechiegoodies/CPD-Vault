@@ -3,4 +3,4 @@ title: "Congenital"
 ---
 
 #congenital
-- [LSVT](posts/lsvt.md)
+- [LSVT](cpd/speech/lsvt.md)
