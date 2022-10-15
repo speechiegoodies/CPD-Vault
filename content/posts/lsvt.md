@@ -1,5 +1,5 @@
 ---
-title: "LSVT"
+title: "LSVT Loud"
 tags:
 - speech
 - voice
@@ -17,11 +17,6 @@ tags:
 </p>
 <p><b>Website:</b>
 <a href="https://www.lsvtglobal.com/LSVTLoud">LSVT Website</a></p>
-
-<p><b>Description:</b>
-Evidence from aphasia literature supports the proposition that cognitive processes, such as attention and memory, influence language production and comprehension. To elucidate these relationships, this event will discuss models of attention and memory, review assessment practices and present treatment approaches.</p>
-
-<p><a href="https://speechiegoodies.github.io/CPD-Vault">&lt; Home</a></p>
 
 <p><b>Description:</b>
 A speech treatment with current and emerging evidence for the following populations:</p>
@@ -48,3 +43,5 @@ A speech treatment with current and emerging evidence for the following populati
 </ul>
 
 </p>
+
+<p><a href="https://speechiegoodies.github.io/CPD-Vault">&lt; Home</a></p>
