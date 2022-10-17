@@ -62,3 +62,9 @@ Details are accurate to the time of collation (October 2022).
 - [ClinEdAus](https://www.clinedaus.org.au/professional-development)
 - [Queensland Centre for Mental Health Learning](https://www.qcmhl.qld.edu.au/index.php)<br>
 - [Queensland Health iLearn Internal Course Catalogue](https://ilearncatalogue.health.qld.gov.au/)
+
+<hr>
+
+# Contact
+Feedback? Submissions?<br>
+<a href='mai&#108;to&#58;&#115;&#37;70%&#54;5e&#37;63h&#105;ego&#111;d&#105;&#101;s&#64;gm&#97;il&#46;c&#37;6F&#37;6D'>s&#112;ee&#99;&#104;&#105;e&#103;oodi&#101;&#115;&#64;gmail&#46;com</a>
