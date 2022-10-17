@@ -1,5 +1,5 @@
 ---
-title: "PD: Youth Aboriginal &#38; Torres Strait Islander Mental Health First Aid"
+title: "PD: Youth Aboriginal and Torres Strait Islander Mental Health First Aid"
 tags:
 - firstnations
 - aboriginal
