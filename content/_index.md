@@ -12,11 +12,11 @@ Details are accurate to the time of collation (October 2022).
 - [Autism](topics/neurodivergence.md) #autism
 
 ## C
-- [Childhood apraxia of speech](topics/apraxia.md) #cas
+- [Childhood apraxia of speech](topics/apraxia.md) #cas<br>
 - [Cognitive communication](topics/cogcom.md) #cogcom
 
 ## D
-- [Dyslexia](topics/neurodivergence.md) #dyslexia
+- [Dyslexia](topics/neurodivergence.md) #dyslexia<br>
 - [Dysphagia](topics/dysphagia.md) #dysphagia
 
 ## L
@@ -28,8 +28,9 @@ Details are accurate to the time of collation (October 2022).
 - [Progressive neurological conditions](topics/progneuro.md) #progneuro
 
 ## S
-- [Speech](topics/speech.md) #speech
-- [Stuttering](topics/stuttering.md) #stuttering
+- [Speech](topics/speech.md) #speech<br>
+- [Stuttering](topics/stuttering.md) #stuttering<br>
+- [Sign](topics/aac.md) #sign
 
 ## V
 - [Voice](topics/voice.md) #voice
