@@ -5,6 +5,18 @@ title: "CPD-Vault"
 A database of CPD for confused speechie grads (and others).<br>
 Details are accurate to the time of collation (October 2022).
 
+# PD Hubs
+## SLP
+- [ASHA CE Courses](https://apps.asha.org/eweb/OLSDynamicPage.aspx?Webcode=olsprofdev)<br>
+- [RCSLT Webinars](https://www.youtube.com/playlist?list=PL9WZl-0CJ2TIPyp_US8AWDlEPZZb2_8Rv)<br>
+- [SPA Learning Hub](https://learninghub.speechpathologyaustralia.org.au/)
+
+## Allied Health & Medical
+- [ClinEdAus](https://www.clinedaus.org.au/professional-development)
+- [Queensland Centre for Mental Health Learning](https://www.qcmhl.qld.edu.au/index.php)<br>
+- [Queensland Health iLearn Internal Course Catalogue](https://ilearncatalogue.health.qld.gov.au/)<br>
+
+
 # Masterlist of Tags
 ## A
 - [AAC](topics/aac.md) #aac<br>
