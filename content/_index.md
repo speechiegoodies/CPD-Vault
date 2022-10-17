@@ -17,8 +17,7 @@ Details are accurate to the time of collation (October 2022).
 - [Cognitive communication](topics/cogcom.md) #cogcom
 
 ## D
-- [Dyslexia](topics/neurodivergence.md) #dyslexia<br>
-- [Dysphagia](topics/dysphagia.md) #dysphagia
+- [Dyslexia](topics/neurodivergence.md) #dyslexia
 
 ## L
 - [Language](topics/lang-lit.md) #language<br>
@@ -32,6 +31,7 @@ Details are accurate to the time of collation (October 2022).
 - [Speech](topics/speech.md) #speech<br>
 - [Stuttering](topics/stuttering.md) #stuttering<br>
 - [Sign](topics/aac.md) #sign
+- [Swallowing](topics/swallowing.md) #swallowing
 
 ## V
 - [Voice](topics/voice.md) #voice
