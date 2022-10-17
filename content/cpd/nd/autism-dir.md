@@ -16,5 +16,3 @@ The DIRFloortime® Training Program is open to anyone who wants to learn the DIR
 </p>
 
 <p><a href="https://speechiegoodies.github.io/CPD-Vault">&lt; Home</a></p>
-
-https://www.icdl.com/courses/

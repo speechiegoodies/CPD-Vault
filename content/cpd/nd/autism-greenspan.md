@@ -16,7 +16,3 @@ Floortime is an evidence-based intervention. Research demonstrates that it stren
 </p>
 
 <p><a href="https://speechiegoodies.github.io/CPD-Vault">&lt; Home</a></p>
-
-https://www.icdl.com/courses/
-
-https://www.stanleygreenspan.com/

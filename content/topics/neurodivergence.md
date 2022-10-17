@@ -2,6 +2,9 @@
 title: "TOPIC: Neurodivergence"
 ---
 
+#adhd
+- [ADHD & Doing Stuff](cpd/nd/adhd-drk.md)
+
 #autism
 - [DIRFloortime® Courses](cpd/nd/autism-dir.md)
 - [The Greenspan Floortime Approach](cpd/nd/autism-greenspan.md)
