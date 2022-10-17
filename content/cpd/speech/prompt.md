@@ -6,7 +6,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #cas #autism #congenital #speech</p>
-<p><b>Code:</b> O</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Online or in-person</p>
 <p><b>Website:</b>
 <a href="https://promptinstitute.com/page/Certification/">The PROMPT Institute</a></p>

@@ -6,7 +6,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #aphasia #language</p>
-<p><b>Code:</b> O</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Live online event (Past event)</p>
 <p><b>Website:</b>
 <a href="https://learninghub.speechpathologyaustralia.org.au/speechpathologyaust/2570-attention-memory-and-aphasia-evidence-interactions-and-implications-sep-2022/">Speech Pathology Australia — Learning Hub</a></p>

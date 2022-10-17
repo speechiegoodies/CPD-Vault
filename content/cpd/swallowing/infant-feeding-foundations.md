@@ -5,7 +5,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #swallowing</p>
-<p><b>Code:</b> O</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Live online event or self-paced</p>
 <p><b>Cost:</b> $350</p>
 <p><b>Website:</b>

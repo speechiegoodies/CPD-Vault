@@ -7,7 +7,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #firstnations #aboriginal #torresstrait </p>
-<p><b>Code:</b> C</p>
+<p><b>Code:</b> C, S</p>
 <p><b>Type:</b> Blended or in-person</p>
 <p><b>Website:</b>
 <a href="https://mhfa.com.au/courses/public/types/aboriginal">Mental Health First Aid</a></p>

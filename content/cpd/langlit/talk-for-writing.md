@@ -6,7 +6,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #language #literacy</p>
-<p><b>Code:</b> O</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Live online workshops (Mar 2023)</p>
 <p><b>Website:</b>
 <a href="https://dsf.net.au/our-services/workshops-and-events/talk-for-writing">Dyslexia — SPELD Foundation</a></p>

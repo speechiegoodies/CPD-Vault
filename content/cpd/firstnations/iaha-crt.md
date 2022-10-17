@@ -5,7 +5,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #firstnations</p>
-<p><b>Code:</b> C</p>
+<p><b>Code:</b> C, S</p>
 <p><b>Type:</b> Self-paced online and blended</p>
 <p><b>Website:</b>
 <a href="https://iaha.com.au/iaha-consulting/cultural-responsiveness-training/">IAHA</a></p>

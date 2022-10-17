@@ -7,7 +7,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #literacy #language #dyslexia</p>
-<p><b>Code:</b> O</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Live online workshops (Feb 2023)</p>
 <p><b>Website:</b> <a href="https://speldnsw.memnet.com.au/MemberSelfService/EventBooking.aspx?selectedEventId=264">SPELD NSW</a></p>
 

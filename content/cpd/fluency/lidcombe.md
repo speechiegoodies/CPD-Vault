@@ -5,7 +5,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #stuttering</p>
-<p><b>Code:</b> O</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Online</p>
 <p><b>Cost:</b> $500</p>
 <p><b>Website:</b>

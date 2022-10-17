@@ -5,7 +5,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #autism</p>
-<p><b>Code:</b> O</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Self-paced online course (4 hours to complete)</p>
 <p><b>Cost:</b> $75</p>
 <p><b>Website:</b>

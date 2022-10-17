@@ -6,7 +6,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #aac #sign</p>
-<p><b>Code:</b> O</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Blended and in-person</p>
 <p><b>Cost:</b> $200</p>
 <p><b>Website:</b>

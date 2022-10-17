@@ -6,7 +6,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #language #autism</p>
-<p><b>Code:</b> O</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Online</p>
 <p><b>Website:</b>
 <a href="http://www.hanen.org/Professional-Development/Workshops-For-SLPs.aspx">The Hanen Centre</a></p>

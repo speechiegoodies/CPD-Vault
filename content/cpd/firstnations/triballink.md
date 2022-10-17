@@ -5,7 +5,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #firstnations</p>
-<p><b>Code:</b> C</p>
+<p><b>Code:</b> C, S</p>
 <p><b>Type:</b> Online (Cultural Training) or face-to-face (Cultural Awareness for Health Professionals)</p>
 <p><b>Website:</b>
 <a href="https://triballink.com.au/mobile-learning/cultural-training/">TribalLink</a></p>

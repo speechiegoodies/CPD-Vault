@@ -5,7 +5,7 @@ tags:
 ---
 
 <p><b>Tags:</b> swallowing</p>
-<p><b>Code:</b> O, S</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Online or in-person</p>
 <p><b>Website:</b>
 <a href="https://sosapproachtofeeding.com/sos-educational-programs/098">SOS Education Programs</a></p>

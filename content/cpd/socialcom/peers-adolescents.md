@@ -6,7 +6,7 @@ tags:
 
 #socialcom
 <p><b>Tags:</b> #socialcom</p>
-<p><b>Code:</b> O</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Online (3 sessions)</p>
 <p><b>Cost:</b> $500 USD</p>
 <p><b>Website:</b>

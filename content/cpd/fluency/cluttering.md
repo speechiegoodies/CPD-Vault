@@ -5,7 +5,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #cluttering</p>
-<p><b>Code:</b> O</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Live online</p>
 <p><b>Cost:</b> $100</p>
 <p><b>Website:</b>

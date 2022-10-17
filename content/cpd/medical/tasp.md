@@ -6,7 +6,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #medical #swallowing</p>
-<p><b>Code:</b> O, S</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> In-person</p>
 <p><b>Cost:</b> $610</p>
 <p><b>Website:</b>

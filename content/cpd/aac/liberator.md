@@ -5,7 +5,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #aac</p>
-<p><b>Code:</b> O</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Self-paced online</p>
 <p><b>Website:</b>
 <a href="https://aac-training.liberator.net.au/collections">Liberator</a></p>

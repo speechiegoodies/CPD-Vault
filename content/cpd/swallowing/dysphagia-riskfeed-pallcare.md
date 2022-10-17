@@ -8,7 +8,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #swallowing  #riskfeeding #agedcare #pallcare</p>
-<p><b>Code:</b> O</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Live online event (Nov 2022) (Runs over 2 sessions)</p>
 <p><b>Cost:</b> $110</p>
 <p><b>Website:</b>

@@ -5,7 +5,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #aac</p>
-<p><b>Code:</b> O</p>
+<p><b>Code:</b> S</p>
 <p><b>Type:</b> Online</p>
 <p><b>Website:</b>
 <a href="https://isaac-online.org/english/webinars/">ISAAC</a></p>
