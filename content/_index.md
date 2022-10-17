@@ -33,7 +33,7 @@ Details are accurate to the time of collation (October 2022).
 - [Progressive neurological conditions](topics/progneuro.md) #progneuro
 
 ## S
-- [Sign](topics/aac.md) #sign
+- [Sign](topics/aac.md) #sign<br>
 - [Social communication](topics/socialcom.md) #socialcom<br>
 - [Speech](topics/speech.md) #speech<br>
 - [Stuttering](topics/stuttering.md) #stuttering<br>
