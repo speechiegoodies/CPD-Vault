@@ -9,7 +9,8 @@ Details are accurate to the time of collation (October 2022).
 ## A
 - [Aged care](topics/aged-pallcare.md) #agedcare<br>
 - [Aphasia](topics/aphasia.md) #aphasia<br>
-- [Autism](topics/neurodivergence.md) #autism
+- [Autism](topics/neurodivergence.md) #autism<br>
+- [AAC](topics/aac.md) #aac
 
 ## C
 - [Childhood apraxia of speech](topics/apraxia.md) #cas<br>
