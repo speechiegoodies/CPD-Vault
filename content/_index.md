@@ -28,6 +28,9 @@ Details are accurate to the time of collation (October 2022).
 - [Language](topics/lang-lit.md) #language<br>
 - [Literacy](topics/lang-lit.md) #literacy
 
+## M
+- [Medical](topics/medical.md) #medical
+
 ## P
 - [Palliative care](topics/aged-pallcare.md) #pallcare<br>
 - [Play](topics/play.md) #play<br>
