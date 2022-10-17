@@ -7,28 +7,28 @@ Details are accurate to the time of collation (October 2022).
 
 # Masterlist of Tags
 ## A
-- [Aged care](!tagpages/aged-pallcare.md) #agedcare<br>
-- [Aphasia](!tagpages/aphasia.md) #aphasia<br>
-- [Autism](!tagpages/neurodivergence.md) #autism
+- [Aged care](topics/aged-pallcare.md) #agedcare<br>
+- [Aphasia](topics/aphasia.md) #aphasia<br>
+- [Autism](topics/neurodivergence.md) #autism
 
 ## C
-- [Childhood apraxia of speech](!tagpanes/apraxia.md) #cas
-- [Cognitive communication](!tagpages/cogcom.md) #cogcom
+- [Childhood apraxia of speech](topics/apraxia.md) #cas
+- [Cognitive communication](topics/cogcom.md) #cogcom
 
 ## D
-- [Dyslexia](!tagpages/neurodivergence.md) #dyslexia
-- [Dysphagia](!tagpages/dysphagia.md) #dysphagia
+- [Dyslexia](topics/neurodivergence.md) #dyslexia
+- [Dysphagia](topics/dysphagia.md) #dysphagia
 
 ## L
-- [Language](!tagpages/lang-lit.md) #language<br>
-- [Literacy](!tagpages/lang-lit.md) #literacy
+- [Language](topics/lang-lit.md) #language<br>
+- [Literacy](topics/lang-lit.md) #literacy
 
 ## P
-- [Palliative care](!tagpages/aged-pallcare.md) #pallcare<br>
-- [Progressive neurological conditions](!tagpages/progneuro.md) #progneuro
+- [Palliative care](topics/aged-pallcare.md) #pallcare<br>
+- [Progressive neurological conditions](topics/progneuro.md) #progneuro
 
 ## S
-- [Speech](!tagpages/speech.md) #speech
+- [Speech](topics/speech.md) #speech
 
 ## V
-- [Voice](!tagpages/voice.md) #voice
+- [Voice](topics/voice.md) #voice
