@@ -30,6 +30,7 @@ Details are accurate to the time of collation (October 2022).
 
 ## P
 - [Palliative care](topics/aged-pallcare.md) #pallcare<br>
+- [Play](topics/play.md) #play<br>
 - [Progressive neurological conditions](topics/progneuro.md) #progneuro
 
 ## S
