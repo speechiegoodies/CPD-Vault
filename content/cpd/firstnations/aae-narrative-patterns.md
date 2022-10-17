@@ -6,7 +6,7 @@ tags:
 ---
 
 <p><b>Tags:</b> #firstnations #language</p>
-<p><b>Code:</b> O, C</p>
+<p><b>Code:</b> C, O</p>
 <p><b>Type:</b> Self-paced online (90 minutes)</p>
 <p><b>Cost:</b> $199</p>
 <p><b>Website:</b>
