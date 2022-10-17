@@ -8,6 +8,7 @@ title: "TOPIC: Neurodivergence"
 #autism
 - [DIRFloortime® Courses](cpd/nd/autism-dir.md)
 - [The Greenspan Floortime Approach](cpd/nd/autism-greenspan.md)
+- [Hanen Workshops](cpd/langlit/hanen.md)
 - [Implementing the National Guideline for the Diagnosis of ASD](cpd/nd/autism-national-guideline.md)
 - [PROMPT](cpd/speech/prompt.md)
 

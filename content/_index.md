@@ -28,8 +28,8 @@ Details are accurate to the time of collation (October 2022).
 - [First Nations](topics/firstnations.md) #firstnations
 
 ## L
-- [Language](topics/lang-lit.md) #language<br>
-- [Literacy](topics/lang-lit.md) #literacy
+- [Language](topics/langlit.md) #language<br>
+- [Literacy](topics/langlit.md) #literacy
 
 ## M
 - [Medical](topics/medical.md) #medical
