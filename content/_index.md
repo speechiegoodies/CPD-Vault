@@ -54,6 +54,7 @@ Details are accurate to the time of collation (October 2022).
 # PD Hubs
 ## SLP
 - [ASHA CE Courses](https://apps.asha.org/eweb/OLSDynamicPage.aspx?Webcode=olsprofdev)<br>
+- [Continued: Speech Pathology](https://www.speechpathology.com/slp-ceus/)<br>
 - [RCSLT Webinars](https://www.youtube.com/playlist?list=PL9WZl-0CJ2TIPyp_US8AWDlEPZZb2_8Rv)<br>
 - [SPA Learning Hub](https://learninghub.speechpathologyaustralia.org.au/)
 
