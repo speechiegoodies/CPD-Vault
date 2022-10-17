@@ -3,4 +3,4 @@ title: "TOPIC: Stuttering"
 ---
 
 #stuttering 
-- [Lidcombe Program](topics/lidcombe.md)
+- [Lidcombe Program](cpd/stuttering/lidcombe.md)

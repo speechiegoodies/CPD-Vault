@@ -3,4 +3,4 @@ title: "TOPIC: AAC"
 ---
 
 #aac
-- [Key Word Sign](cpd/kws.md)
+- [Key Word Sign](cpd/aac/kws.md)
