@@ -29,6 +29,7 @@ Details are accurate to the time of collation (October 2022).
 
 ## S
 - [Speech](topics/speech.md) #speech
+- [Stuttering](topics/stuttering.md) #stuttering
 
 ## V
 - [Voice](topics/voice.md) #voice
