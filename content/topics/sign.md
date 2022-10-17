@@ -1,6 +1,0 @@
----
-title: "TOPIC: Sign"
----
-
-#sign
-- [Key Word Sign](cpd/aac/kws.md)

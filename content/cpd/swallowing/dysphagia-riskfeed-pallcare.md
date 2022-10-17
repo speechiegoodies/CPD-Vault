@@ -1,13 +1,13 @@
 ---
 title: "PD: Dysphagia management and risk feeding in aged or palliative care"
 tags:
-- dysphagia
+- swallowing
 - riskfeeding
 - agedcare
 - pallcare
 ---
 
-<p><b>Tags:</b> #dysphagia #riskfeeding #agedcare #pallcare</p>
+<p><b>Tags:</b> #swallowing  #riskfeeding #agedcare #pallcare</p>
 <p><b>Code:</b> O</p>
 <p><b>Type:</b> Live online event (Nov 2022) (Runs over 2 sessions)</p>
 <p><b>Cost:</b> $110</p>
