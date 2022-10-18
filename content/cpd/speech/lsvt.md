@@ -33,7 +33,6 @@ A speech treatment with current and emerging evidence for the following populati
 			<li>ataxia</li>
 		</ul>
 	</li>
-	
 	<li>children
 		<ul type="circle">
 			<li>cerebral palsy</li>
