@@ -11,6 +11,7 @@ Details are accurate to the time of collation (October 2022).
 ## A
 - [AAC](topics/aac.md) #aac<br>
 - [Aboriginal](topics/firstnations.md) #aboriginal<br>
+- [Acquired Apraxia of Speech](topics/apraxia.md) #aos<br>
 - [ADHD](topics/neurodivergence.md) #adhd<br>
 - [Aged care](topics/aged-pallcare.md) #agedcare<br>
 - [Aphasia](topics/aphasia.md) #aphasia<br>

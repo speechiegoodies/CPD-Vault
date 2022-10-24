@@ -2,5 +2,5 @@
 title: "TOPIC: Apraxia"
 ---
 
-#cas
+#aos #cas
 - [PROMPT](cpd/speech/prompt.md)

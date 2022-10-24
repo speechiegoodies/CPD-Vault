@@ -23,22 +23,10 @@ A speech treatment with current and emerging evidence for the following populati
 
 <p>
 
+
 <ul type="disc">
-	<li>adults
-		<ul type="circle">
-			<li>Parkinson's disease</li>
-			<li>some atypical Parkinsonians</li>
-			<li>multiple sclerosis</li>
-			<li>stroke</li>
-			<li>ataxia</li>
-		</ul>
-	</li>
-	<li>children
-		<ul type="circle">
-			<li>cerebral palsy</li>
-			<li>Down's syndrome</li>
-		</ul>
-	</li>
+	<li><b>Adults:</b> Parkinson's disease, some atypical Parkinsonians, multiple sclerosis, stroke, ataxia</li>
+	<li><b>children:</b> cerebral palsy, Down's syndrome</li>
 </ul>
 
 </p>
